@@ -1,5 +1,13 @@
 /* Admin */
 
+.draggable a.tabledrag-handle .handle {
+  background: url(/core/themes/stable/images/core/icons/787878/move.svg) no-repeat 6px 7px;
+  height: 25px;
+  margin: -0.2em 0.5em 0;
+  padding: 0;
+  width: 25px;
+}
+
 .admin-action .views-field-title {
   text-align: center;
 }
