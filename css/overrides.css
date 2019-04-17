@@ -70,4 +70,8 @@ audio {
 .main-header nav.navbar {
   z-index: 3;
 }
-  
+
+.block-webform-block input,
+.block-webform-block textarea {
+  max-width: 100%;
+}
