@@ -24,6 +24,11 @@
 .podcast .views-field-field-passage {
 }
 
+audio {
+  padding: 10px;
+  width: 100%;
+}
+
 /* Calendar/map */
   
 #block-calendar iframe {
