@@ -29,6 +29,11 @@ audio {
   width: 100%;
 }
 
+.block-views-blockpodcast-block-1 audio::-webkit-media-controls-panel{
+  background-color: #FBFBFB;
+}
+
+
 /* Calendar/map */
   
 #block-calendar iframe {
