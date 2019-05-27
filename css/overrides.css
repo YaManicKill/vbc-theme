@@ -46,7 +46,7 @@ audio {
 
 /* Homepage */
 
-.carousel-inner div {
+.carousel-inner div:not(.views-field-field-rotator-text) {
   height: 100%;
 }
 
