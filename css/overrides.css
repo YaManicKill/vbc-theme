@@ -46,6 +46,16 @@ audio {
 
 /* Homepage */
 
+.carousel-inner div {
+  height: 100%;
+}
+
+.carousel-inner img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
 .welcome-banner-text {
   max-width: 100%;
 }
