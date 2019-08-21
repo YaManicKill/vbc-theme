@@ -91,6 +91,6 @@ audio {
 }
 
 /* Logo */
-.brand.logo {
+.brand.logo img{
   height: 100px;
 }
