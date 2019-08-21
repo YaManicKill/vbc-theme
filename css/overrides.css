@@ -89,3 +89,8 @@ audio {
 .welcome-banner-text .row {
   margin: 0;
 }
+
+/* Logo */
+.brand.logo {
+  height: 100px;
+}
