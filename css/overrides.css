@@ -94,3 +94,9 @@ audio {
 .brand.logo img{
   height: 100px;
 }
+
+/* groups */
+
+.block-views-blockgroups-block-1 .views-col {
+  padding: 15px;
+}
