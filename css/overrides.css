@@ -100,3 +100,9 @@ audio {
 .block-views-blockgroups-block-1 .views-col {
   padding: 15px;
 }
+
+/* modal */
+
+.ui-widget-overlay.ui-front {
+  z-index: 1 !important;
+}
