@@ -102,12 +102,12 @@ audio {
 }
 
 @media only screen and (max-width: 992px) {
-  .views-col {
+  .block-views-blockgroups-block-1 .views-col {
     width: 33%;
   }
 }
 @media only screen and (min-width: 992px) {
-  .views-col {
+  .block-views-blockgroups-block-1 .views-col {
     width: 16%;
   }
 }
