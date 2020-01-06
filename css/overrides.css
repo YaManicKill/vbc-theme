@@ -81,6 +81,10 @@ audio {
   z-index: 3;
 }
 
+.main-header {
+  background: url(/themes/vbc/images/welcome_banner_bg.jpg);
+}
+
 .block-webform-block input,
 .block-webform-block textarea {
   max-width: 100%;
